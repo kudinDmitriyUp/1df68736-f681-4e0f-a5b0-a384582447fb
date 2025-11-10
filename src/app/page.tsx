@@ -52,7 +52,7 @@ export default function Home() {
               href: "rooms"
             }
           ]}
-          imageSrc="https://pixabay.com/get/g9c2173554dceee008972d0fe9a157e74009895c8c2b4b4a857e1ac27f05d93e55528eea8cb1789e05476024332feed38a38c6a4c405f952392334dd1305bf80b_1280.jpg"
+          imageSrc="https://pixabay.com/get/g0400f33d430825ec6b62646dbf8a1de10649249bdbd7ef50a01de4427ebc99684ec4e0ceb8edb26b3b8ddb5d6b0d4cecad60685a1f2186aafceca4751afda5b4_1280.jpg"
           imageAlt="Luxury hotel exterior at sunset"
           showDimOverlay={true}
         />
